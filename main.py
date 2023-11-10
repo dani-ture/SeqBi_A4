@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 
 def main():
 
-    #Arguments
+    #Hardcoded paths...
     directory = "./resources"
     outdir_msa = "./output/outdir_msa"
     outdir_tree = "./output/outdir_tree"
