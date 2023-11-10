@@ -1,0 +1,781 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      --------------------------------------------------
+Trithuria_filamentosa_KF696682      ATGCCTGTGACTATTCATCTATTGTATTTGCAAACAGCAAGGGGGCCTAA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        -------ATGGAAAAATGGTGGTTAAATTCAATGTTTTTTAATC------
+Brasenia_schreberi_NC_031343        -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTTTAATG------
+Nymphaea_ampla_KU189255             -------ATGGAAAAATGGTGGTTCAATTCAATGTTGTCTAATG------
+Nymphaea_jamesoniana_NC_031826      -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nymphaea_alba_KU234277              -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nymphaea_alba_NC_006050             -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nymphaea_mexicana_NC_024542         -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Victoria_cruziana_KY001813          -------ATGGACAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Euryale_ferox_KY392765              -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Barclaya_kunstleri_KY392762         -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Barclaya_longifolia_KY284156        -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nuphar_advena_NC_008788             -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nuphar_longifolia_MH050795          -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nuphar_shimadae_MH050797            -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Nuphar_pumila_MH050796              -------ATGGAAAAATGGTGGTTAAATTCAATGTTGTCTAATG------
+Trithuria_inconspicua_NC_02037      -------ATGGAAAGACGGTGGTTAAATTCAATCTGGTCTAATCCCAACC
+Trithuria_filamentosa_KF696682      GGTAGTTATGGAAAGACGGTGGTTAAATTCAATCTGGTCTAATCCCAACC
+                                           ***** * * ******* ******** *  * ****       
+
+Cabomba_caroliniana_KT705317        AGGATTTAGAGCGCA---GGTGTGTACTAAGT---------GCGAGTCTT
+Brasenia_schreberi_NC_031343        AGGATTTAGAGCGCA---GGTGTGTACTAAGT---------GCGAGTCTT
+Nymphaea_ampla_KU189255             AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nymphaea_jamesoniana_NC_031826      AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nymphaea_alba_KU234277              AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nymphaea_alba_NC_006050             AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nymphaea_mexicana_NC_024542         AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Victoria_cruziana_KY001813          AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGGGTCTT
+Euryale_ferox_KY392765              AGGATTTAGGGCGCA---GGTGTGGACTAAGC---------GCGAGTCTT
+Barclaya_kunstleri_KY392762         AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Barclaya_longifolia_KY284156        AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nuphar_advena_NC_008788             AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nuphar_longifolia_MH050795          AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nuphar_shimadae_MH050797            AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Nuphar_pumila_MH050796              AGGATTTAGGGCGCA---GGTGTGGACTAAGT---------GCGAGTCTT
+Trithuria_inconspicua_NC_02037      AATATTTAGAGTACAATGGTTGTGGGTTAAGTAAATTAATGGTGAATCGT
+Trithuria_filamentosa_KF696682      AATATTTAGAGTACAATGGTTGTGGGTTAAGTAAATTAATGGTGAATCGT
+                                    *  ****** *  **   * ****   ****          * *  ** *
+
+Cabomba_caroliniana_KT705317        GGTCCTATTGGAAATACCAGCGGAAGTGAAGAACCCACTCTGAATGATAA
+Brasenia_schreberi_NC_031343        GGTCCTATTGGAAATACCAGCGGAAGTGAAGAACCCACTCTAAATGATAA
+Nymphaea_ampla_KU189255             GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Nymphaea_jamesoniana_NC_031826      GGCCCTATTGGAGATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Nymphaea_alba_KU234277              GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Nymphaea_alba_NC_006050             GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Nymphaea_mexicana_NC_024542         GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Victoria_cruziana_KY001813          GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Euryale_ferox_KY392765              GGCCCTATTGGAAATACCAGCGGGAGTGAAGAACCCATTATAAATGATAG
+Barclaya_kunstleri_KY392762         GGCCCTATTGGAAATACCAGCGGAAGTGAAGAACCCATTATAAATGATAA
+Barclaya_longifolia_KY284156        GGCCCTATTGGAAATACCAGTAGAAGTGAAGAACCCCCTATAAATGATAA
+Nuphar_advena_NC_008788             GGCCCTATTGGAAATACCAGCGGAAGTGAAGAACCCATTACAAATGATAA
+Nuphar_longifolia_MH050795          GGCCCTATTGGAAATACCAGCGGAAGTGAAGAACCCATTACAAATGATAA
+Nuphar_shimadae_MH050797            GGCCCTATTGGAAATACCAGCGGAAGTGAAGAACCCATTACAAATGATAA
+Nuphar_pumila_MH050796              GGCCCTATTGGAAATACCAGCGGAAGTGAAGAACCCATTACAAATGATAA
+Trithuria_inconspicua_NC_02037      GGTCCTATTGGCCATAGTAGCGAAGGAGAAGAACAGATTCTAAATAATAA
+Trithuria_filamentosa_KF696682      GGTCCTATTGGCCATAGTAGCGAAGGAGAAGAACAGATTCTAAATAATAA
+                                    ** ********  ***  **     * *******    *   *** *** 
+
+Cabomba_caroliniana_KT705317        TGATAATGAGAAAACCATGAGTAGTTGGAGTGATAGGGGGAGTTCTAGTT
+Brasenia_schreberi_NC_031343        T------GAGAAAACCATGAGTAGTTGGAGTGATAGGGGCAGTTCTAGTT
+Nymphaea_ampla_KU189255             T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nymphaea_jamesoniana_NC_031826      T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nymphaea_alba_KU234277              T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nymphaea_alba_NC_006050             T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nymphaea_mexicana_NC_024542         T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Victoria_cruziana_KY001813          T------GAGAAAAACATTAATAGTTGGAGTGGTAGGGGCAGTTCTAGTT
+Euryale_ferox_KY392765              T------GAGAAAAACGTTAATAGTTGGAGTGGTAGGGCCAGTTATAGTT
+Barclaya_kunstleri_KY392762         T------GAGAAAAACGTTAATAGTTGGAGCGGTAGGGGCAGTTATAGTT
+Barclaya_longifolia_KY284156        T------GATAAAAACGTTAATAGTTGGAGCGGTAGGGGCAGTTATAGTT
+Nuphar_advena_NC_008788             T------GAGAAAAACATTCATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nuphar_longifolia_MH050795          T------GAGAAAAACATTCATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nuphar_shimadae_MH050797            T------GAGAAAAACATTCATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Nuphar_pumila_MH050796              T------GAGAAAAACATTCATAGTTGGAGTGGTAGGGGCAGTTATAGTT
+Trithuria_inconspicua_NC_02037      T------GATAAAACCATTCCTAGTTGGTGGGGTGGGTTCATTTTTAGTG
+Trithuria_filamentosa_KF696682      T------GATAAAACCATTCCTAGTTGGTGGGGTGGGTTCATTTTTAGTG
+                                    *      ** **** * *   ******* * * * **   * ** **** 
+
+Cabomba_caroliniana_KT705317        ACAGTAATCTTGATTATTTACTAGATTTCGATGATCCCAAGGAGATTTGT
+Brasenia_schreberi_NC_031343        ACAGTAATCTTGATTATTTACTAGATTTCGATGATCCCAAGGACATTTGT
+Nymphaea_ampla_KU189255             GCAGTAATGTTGATTATTTACTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Nymphaea_jamesoniana_NC_031826      GCAGTAATGTTGATTATTTACTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Nymphaea_alba_KU234277              GCAGTAATGTTGATTATTTATTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Nymphaea_alba_NC_006050             GCAGTAATGTTGATTATTTATTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Nymphaea_mexicana_NC_024542         GCAGTAATGTTGATTATTTATTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Victoria_cruziana_KY001813          GCAGTAATGTTGATTATTTACTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Euryale_ferox_KY392765              GCAGTAATGTTGATTATTTACTCAACTTGGGCGGTGTCAAGGACGTTTGG
+Barclaya_kunstleri_KY392762         GCAGTAATGTTGATTATTTACTCAACTTGGACGGTGTCAAGGACGTTTGG
+Barclaya_longifolia_KY284156        GCAGTAATGTTGATTATTTACTCAACTTGGACGGTGTCAAGGACGTTTGG
+Nuphar_advena_NC_008788             ACAGTAATGTTGATTATTTACTCGGCTTGGACGGTGTCAAGGACATTTGG
+Nuphar_longifolia_MH050795          ACAGTAATGTTGATTATTTACTCGGCTTGGACGGTGTCAAGGACATTTGG
+Nuphar_shimadae_MH050797            ACAGTAATGTTGATTATTTACTCGGCTTGGACGGTGTCAAGGACATTTGG
+Nuphar_pumila_MH050796              ACAGTAATGTTGATTATTTACTCGGCTTGGACGGTGTCAAGGACATTTGG
+Trithuria_inconspicua_NC_02037      AAAGTAATGTGGATCCTTTATTTGGCTT---------CGCAGAAATTTTG
+Trithuria_filamentosa_KF696682      GAAGTAATGTGGATCCTTTATTTGGCTT---------CGCAGAAATTTTG
+                                      ****** * ***  **** *    **         *   **  ***  
+
+Cabomba_caroliniana_KT705317        AATCTCATCTCTGATGACACCCTTTGGGTTAGGGATAGTAATGGTGACAG
+Brasenia_schreberi_NC_031343        AGTCTCATCTCTGATGACACCCTTTGGGTTAGGGATAGTAATGGTGACAG
+Nymphaea_ampla_KU189255             AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nymphaea_jamesoniana_NC_031826      AGTCTTATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nymphaea_alba_KU234277              AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nymphaea_alba_NC_006050             AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nymphaea_mexicana_NC_024542         AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Victoria_cruziana_KY001813          AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Euryale_ferox_KY392765              AGTCTCATCTCCGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Barclaya_kunstleri_KY392762         AGTCTCATCTCTGGTGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Barclaya_longifolia_KY284156        AGTCTCATCTCTGGGGAGACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nuphar_advena_NC_008788             AGTCTCATCTCTGGTGACACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nuphar_longifolia_MH050795          AGTCTCATCTCTGGTGACACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nuphar_shimadae_MH050797            AGTCTCATCTCTGGTGACACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Nuphar_pumila_MH050796              AGTCTCATCTCTGGTGACACTTTTTGGGTTAGGGATAGTAATGGTGACAG
+Trithuria_inconspicua_NC_02037      AGTTTGATCTCTGGTGA---------AGTCAGGGATAGTAATGGTGACAG
+Trithuria_filamentosa_KF696682      AGTTTGATCTCTGGTGA---------AGTCAGGGATAGTAATGGTGACAG
+                                    * * * ***** *  **          ** ********************
+
+Cabomba_caroliniana_KT705317        TTATTCCGTATATTTCGATATTGAAAATAATATTTTTGAGATTGACACCA
+Brasenia_schreberi_NC_031343        TTATTCCGTATATTTCGATATTGAAAATAATATTTTTGAGATTGACACCA
+Nymphaea_ampla_KU189255             TTATTCCATATATTTCGATATTGAAAATCAGATTTTTGAGATTGACACTG
+Nymphaea_jamesoniana_NC_031826      TTATTCCATATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nymphaea_alba_KU234277              TTATTCCATATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nymphaea_alba_NC_006050             TTATTCCATATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nymphaea_mexicana_NC_024542         TTATTCCATATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Victoria_cruziana_KY001813          TTATTCCATATATTTCGATATTGAAAATCAGATTTTTGAGATTGACACTG
+Euryale_ferox_KY392765              TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Barclaya_kunstleri_KY392762         TTATTCTGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Barclaya_longifolia_KY284156        TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nuphar_advena_NC_008788             TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nuphar_longifolia_MH050795          TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nuphar_shimadae_MH050797            TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Nuphar_pumila_MH050796              TTATTCCGTATATTTCGATATTGAAAATAAGATTTTTGAGATTGACACTG
+Trithuria_inconspicua_NC_02037      TTACTACATATATTTCGATATTGAAAACCAAATTTTTGATGTCCATATTG
+Trithuria_filamentosa_KF696682      TTACTACATATATTTCGATATTGAAAACCAAATTTTTGATGTCCATATTG
+                                    *** *   *******************  * ********  *  * *   
+
+Cabomba_caroliniana_KT705317        ATAGTTACTTTCTGGGTGAACTAGAAAGCTTATTTTCTAGTTATCTGAAT
+Brasenia_schreberi_NC_031343        ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nymphaea_ampla_KU189255             ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nymphaea_jamesoniana_NC_031826      ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nymphaea_alba_KU234277              ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nymphaea_alba_NC_006050             ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nymphaea_mexicana_NC_024542         ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Victoria_cruziana_KY001813          ATAGTTACTTTCTGGGTGAACTAGAAAGTTTCTTTTCTAGTTATCTGAAT
+Euryale_ferox_KY392765              ATAGTTACTTTCTGGGTGAACTAGAAAGTTTCTTTTCTAGTTATCTGAAT
+Barclaya_kunstleri_KY392762         ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTATAGTTATCTGAAT
+Barclaya_longifolia_KY284156        ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nuphar_advena_NC_008788             ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nuphar_longifolia_MH050795          ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nuphar_shimadae_MH050797            ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Nuphar_pumila_MH050796              ATAGTTACTTTCTGGGTGAACTAGAAAGTTTATTTTCTAGTTATCTGAAT
+Trithuria_inconspicua_NC_02037      AAAAT---------------------------------AGTGATCTGACT
+Trithuria_filamentosa_KF696682      AAAAT---------------------------------AGTGATCTGACT
+                                    * * *                                 *** ****** *
+
+Cabomba_caroliniana_KT705317        TTAAATAGTGGGTCTAAGAGTTACAATGGGGATTCTGATGATTACGTGTA
+Brasenia_schreberi_NC_031343        CTAAATAGTGGGTCTAAGAGTTACAATCGCTATTCTGATGATTACGTGTA
+Nymphaea_ampla_KU189255             CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Nymphaea_jamesoniana_NC_031826      CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Nymphaea_alba_KU234277              CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Nymphaea_alba_NC_006050             CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Nymphaea_mexicana_NC_024542         CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Victoria_cruziana_KY001813          CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Euryale_ferox_KY392765              CTAAATAATGGGTCTAAGAGTTACAATCGCTATTATGATCATTACGTGTA
+Barclaya_kunstleri_KY392762         CTAAATAATGGGTCTAAGAGTTATAATCGCTATTATGATCATTACGTGTA
+Barclaya_longifolia_KY284156        CTAAATAACGGGTCTAAGAGTTATAATCGCTATTATGATCATTACGTGTA
+Nuphar_advena_NC_008788             CTAAATAGTGGGTCTAAGGATTACAATCGCTATTATGATCAGTACGTGTA
+Nuphar_longifolia_MH050795          CTAAATAGTGGGTCTAAGGATTACAATCGCTATTATGATCAGTACGTGTA
+Nuphar_shimadae_MH050797            CTAAATAGTGGGTCTAAGGATTACAATCGCTATTATGATCAGTACGTGTA
+Nuphar_pumila_MH050796              CTAAATAGTGGGTCTAAGGATTACAATCGCTATTATGATCAGTACGTGTA
+Trithuria_inconspicua_NC_02037      CCAAATAGGGAAGATAAGAGTTCTGATCCTTATTATGAACGTTACATCTA
+Trithuria_filamentosa_KF696682      CCAAATAGGGAAGATAAGAGTTCTGATCCTTATTATGAACGTTACATCTA
+                                      *****  *    ****  **   **    *** ***    *** * **
+
+Cabomba_caroliniana_KT705317        TGATACTAGGCATAGTTGGAAGAATCACATTAATAGTTCTATTGACAGTT
+Brasenia_schreberi_NC_031343        TGATACTAAGCATAGTTGGAAGAATCACATTAATAGTTGCATTGACAGTT
+Nymphaea_ampla_KU189255             TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Nymphaea_jamesoniana_NC_031826      TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Nymphaea_alba_KU234277              TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Nymphaea_alba_NC_006050             TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Nymphaea_mexicana_NC_024542         TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Victoria_cruziana_KY001813          TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Euryale_ferox_KY392765              TGATACTAGGCATAGTTGGAAGAGTCACATAAATAGTTGCATTGACAGTT
+Barclaya_kunstleri_KY392762         TGATACTAGGCATAGTTGGAAGAATCACATAAATAGTTGCATTGACAGTT
+Barclaya_longifolia_KY284156        TGATACTAGGCATAGTTGGAAGAATCACATAAATAGTTGCATTGACAGTT
+Nuphar_advena_NC_008788             TGATACTAGGCATAGTTGGAAGAATCACATTAATAGTTGCATTGACAGTT
+Nuphar_longifolia_MH050795          TGATACTAGGCATAGTTGGAAGAATCACATTAATAGTTGCATTGACAGTT
+Nuphar_shimadae_MH050797            TGATACTAGGCATAGTTGGAAGAATCACATTAATAGTTGCATTGACAGTT
+Nuphar_pumila_MH050796              TGATACTAGGCATAGTTGGAAGAATCACATTAATAGTTGCATTGACAGTT
+Trithuria_inconspicua_NC_02037      TGATACGGAGTACAGTTGGAAGGATCATGTTAATGATTGCATTATCAATT
+Trithuria_filamentosa_KF696682      TGATACGGAGTACAGTTGGAAGGATCATGTTAATGATTGCATTATCAATT
+                                    ******   * * *********  ***  * ***  **  ***  ** **
+
+Cabomba_caroliniana_KT705317        ATATTCGTTCTGAAACCAATAC---CAATCTGGATAGTTGCATTTTGAAT
+Brasenia_schreberi_NC_031343        ATATTCGTTCTGAAACCAATCC---CAATATGGATAGTTTCATTTTGAAT
+Nymphaea_ampla_KU189255             ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCGTTCCAAAT
+Nymphaea_jamesoniana_NC_031826      ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTCAAAAT
+Nymphaea_alba_KU234277              ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTCCAAAT
+Nymphaea_alba_NC_006050             ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTCCAAAT
+Nymphaea_mexicana_NC_024542         ATATTTGTTCTGAAACCAATA---------TGGATAGTTGCATTCCAAAC
+Victoria_cruziana_KY001813          ATATTGGTTCTGAAACCAATA---------TGTATAGTTGCATTCCAAAT
+Euryale_ferox_KY392765              ATATTGGTTCTGAAACCAATA---------TGGATAGTTGCATTCCAAAT
+Barclaya_kunstleri_KY392762         ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCAAAT
+Barclaya_longifolia_KY284156        ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCAAAT
+Nuphar_advena_NC_008788             ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCGAAT
+Nuphar_longifolia_MH050795          ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCGAAT
+Nuphar_shimadae_MH050797            ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCGAAT
+Nuphar_pumila_MH050796              ATATTCGTTCTGAAACCAATA---------TGGATAGTTGCATTTCGAAT
+Trithuria_inconspicua_NC_02037      ATCTTCGTTCTGAAACCAACAATATCAATCTCTCTAGTTGGATTTTAAAG
+Trithuria_filamentosa_KF696682      ATCTTCGTTCTGAAACCAACAATATCAATCTCTCTAGTTGGATTTTAAAG
+                                    ** ** *************           *   *****   **   ** 
+
+Cabomba_caroliniana_KT705317        GGTAATAACAATTACAGTGACAATTACATTTATAGTTACATTTGTAACGA
+Brasenia_schreberi_NC_031343        GGTAGTAACAATCCCAGTGACAATTACATTTATAGTTACATTTGTAAGGA
+Nymphaea_ampla_KU189255             GGTAGCAACAATTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Nymphaea_jamesoniana_NC_031826      GGTAGCAACAATTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Nymphaea_alba_KU234277              GGTAGCAACAATTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Nymphaea_alba_NC_006050             GGTAGCAACAATTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Nymphaea_mexicana_NC_024542         GGTAGCAACAATTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Victoria_cruziana_KY001813          GGTAGCAACAACTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Euryale_ferox_KY392765              GGTAGCAACAACTCAAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Barclaya_kunstleri_KY392762         GATAGCAACATTTCCAGTGACAATTACATTTATAGTTATATTTGTAGCGA
+Barclaya_longifolia_KY284156        GATAGCAACAATTCCAGTGACAATTACATTTATAGTTACATTTGTAGCGA
+Nuphar_advena_NC_008788             GGTAGCAACAATTCCAGCGACAATTACATTTATAGTTACATTTGTAGCGA
+Nuphar_longifolia_MH050795          GGTAGCAACAATTCCAGCGACAATTACATTTATAGTTACATTTGTAGCGA
+Nuphar_shimadae_MH050797            GGTAGCAACAATTCCAGCGACAATTACATTTATAGTTACATTTGTAGCAA
+Nuphar_pumila_MH050796              GGTAGCAACAATTCCAGCGACAATTACATTTATAGTTACATTTGTAGCGA
+Trithuria_inconspicua_NC_02037      ATTAGCAAGATTTTTGGTCAGAATTATATTACTAGTTACATTTATAGCCA
+Trithuria_filamentosa_KF696682      ATTAGCAAGATTTTTGGTCAGAATTATATTACTAGTTACATTTATAGCCA
+                                      **  ** *      *  * ***** ***  ****** **** **   *
+
+Cabomba_caroliniana_KT705317        TAGTGAAAGCGAGAGTGACCTTGAGAGCTCTAATCTCCAAATAC------
+Brasenia_schreberi_NC_031343        TAGTGAAAGGGAGAGTGACCTTGAGAGCTCTAATCTCAAAATAA------
+Nymphaea_ampla_KU189255             TATTGAAAGGGGTAGTGACCGTGGGAGCTCCAATCTAAAAACT-------
+Nymphaea_jamesoniana_NC_031826      TAGTGAAAGGGGTAGTGACCGTGGGAGCTCCAATCTAAAAACT-------
+Nymphaea_alba_KU234277              TAGTGAAAGGGGTAGTGACCGTGGGAGTTCCAATCTAAAAACT-------
+Nymphaea_alba_NC_006050             TAGTGAAAGGGGTAGTGACCGTGGGAGTTCCAATCTAAAAACT-------
+Nymphaea_mexicana_NC_024542         TAGTGAAAGGGGTAGTGACCGTGGGAGTTCCAATCTAAAAACT-------
+Victoria_cruziana_KY001813          TAGTGAAAGGGGTAGTGACTGTGAGAGCTCCAATCTAAAAACT-------
+Euryale_ferox_KY392765              TAGTGAAAGGGGTAGTGACCATGAGAGCTCCAATCTAAAAACT-------
+Barclaya_kunstleri_KY392762         TAGTGAAAGGGATAGTGACTGTGGGAGCTCCAATCTAAAAACT-------
+Barclaya_longifolia_KY284156        TAGTGAAAGGGATAGTGACTGCGGGAGCTCCAATCTAAAAACT-------
+Nuphar_advena_NC_008788             TAGTGAAAGGGGTAGTGACCGTGGGAGCTCTAATCTAAAAACT-------
+Nuphar_longifolia_MH050795          TAGTGAAAGGGGTAGTGACCGTGGGAGCTCTAATCTAAAAACT-------
+Nuphar_shimadae_MH050797            TAGTGAAAGGGGTAGTGACCGTGGGAGCTCTAATCTAAAAACT-------
+Nuphar_pumila_MH050796              TAGTGAAAGGGGTAGTGACCGTGGGAGCTCTAATCTAAAAACT-------
+Trithuria_inconspicua_NC_02037      GAGTAGAGGGGGTAGT---CGAGGAATCTTTAATCAAAAAAGTGGTCTTA
+Trithuria_filamentosa_KF696682      GAGTAGAGGGGGTAGT---CGAAGAATCTTTAATCAAAAAAGTGGTCTTA
+                                     * *  * * *  ***         *  *  ****   ***         
+
+Cabomba_caroliniana_KT705317        ---AAAATAAC---------GTTAGTGAC------ACTGATTCCGAAATA
+Brasenia_schreberi_NC_031343        ---AAAATGGT---------GTTAGTGAC------ACTGATTTCGGAAGA
+Nymphaea_ampla_KU189255             -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Nymphaea_jamesoniana_NC_031826      -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Nymphaea_alba_KU234277              -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Nymphaea_alba_NC_006050             -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Nymphaea_mexicana_NC_024542         -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Victoria_cruziana_KY001813          -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Euryale_ferox_KY392765              -----AGTGGT---------GTTAGTGAC------AGTGATTTCGGAAGA
+Barclaya_kunstleri_KY392762         -----AG---T---------GTTAGTGAC------AGTGATTTCGGAAGA
+Barclaya_longifolia_KY284156        -----AG---T---------GTTAGTGAC------AGTGATTTCGGAAGA
+Nuphar_advena_NC_008788             -----AG------------------TGTT------AGTGATTTCGGAAGA
+Nuphar_longifolia_MH050795          -----AG------------------TGTT------AGTGATTTCGGAAGA
+Nuphar_shimadae_MH050797            -----AG------------------TGTT------AGTGATTTCGGAAGA
+Nuphar_pumila_MH050796              -----AG------------------TGTT------AGTGATTTCGGAAGA
+Trithuria_inconspicua_NC_02037      GTAAAAGTGATTCAGAAGGAATTAGTCATTTACAAAGTGATTCAGAAGGA
+Trithuria_filamentosa_KF696682      GTAAAAGTGATTCAGAAGAAATTAGTCATTTACAAAGTGATTCAGAAGGA
+                                         *                   *         * *****  * *  *
+
+Cabomba_caroliniana_KT705317        CAGAATGATTTAGATAGAAATCAAAAA------TACAGACATTTATGGGT
+Brasenia_schreberi_NC_031343        CAGAATGATTTAGATAGAAATCAAAAA------TACAGACATTTATGGGT
+Nymphaea_ampla_KU189255             CATAATGATCTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Nymphaea_jamesoniana_NC_031826      CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Nymphaea_alba_KU234277              CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Nymphaea_alba_NC_006050             CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Nymphaea_mexicana_NC_024542         CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Victoria_cruziana_KY001813          CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Euryale_ferox_KY392765              CATAATGATTTAGATAGAAATAAAAGA------TACAGACATTTATGGGT
+Barclaya_kunstleri_KY392762         CATAGTGATTTAGATAGAAATCAAAGA------TACAGACATTTATGGGT
+Barclaya_longifolia_KY284156        CATAGTGATTTAGATAGAAATCAAAGA------TACAGACATTTATGGGT
+Nuphar_advena_NC_008788             CATAGTGATTTAGATAGAAATCTAAAA------TACGGACATTTATGGGT
+Nuphar_longifolia_MH050795          CATAGTGATTTAGATAGAAATCTAAAA------TACGGACATTTATGGGT
+Nuphar_shimadae_MH050797            CATAGTGATTTAGATAGAAATCTAAAA------TACGGACATTTATGGGT
+Nuphar_pumila_MH050796              CATAGTGATTTAGATAGAAATCTAAAA------TACGGACATTTATGGGT
+Trithuria_inconspicua_NC_02037      ACTAGTGATTGCGATCAAAATGAAAAACCATCTTACGCACATTTATGGGT
+Trithuria_filamentosa_KF696682      ACTAGTGATTGCGATCAAAATGAAAAACCATCTTACGCACATTTATGGGT
+                                       * ****   ***  ****  ** *      ***  ************
+
+Cabomba_caroliniana_KT705317        TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Brasenia_schreberi_NC_031343        TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nymphaea_ampla_KU189255             TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nymphaea_jamesoniana_NC_031826      TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nymphaea_alba_KU234277              TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nymphaea_alba_NC_006050             TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nymphaea_mexicana_NC_024542         TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Victoria_cruziana_KY001813          TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Euryale_ferox_KY392765              TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAAATTTTTAGTTCAA
+Barclaya_kunstleri_KY392762         TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Barclaya_longifolia_KY284156        TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nuphar_advena_NC_008788             TCAATGTGAAAATTGTTATGGATTGAATTATAAGAAATTTTTTAGTTCAA
+Nuphar_longifolia_MH050795          TCAATGTGAAAATTGTTATGGATTGAATTATAAGAAATTTTTTAGTTCAA
+Nuphar_shimadae_MH050797            TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Nuphar_pumila_MH050796              TCAATGTGAAAATTGTTATGGATTAAATTATAAGAAATTTTTTAGTTCAA
+Trithuria_inconspicua_NC_02037      TCTATGCGAAAATTGTAATATATTGAATTATAAGAAATCTTTGCGATCAA
+Trithuria_filamentosa_KF696682      TCTATGCGAAAATTGTAATATATTGAATTATAAGAAATCTTTGCGATCAA
+                                    ** *** ********* **  *** ************  ***  * ****
+
+Cabomba_caroliniana_KT705317        AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGTGTAGTTCA
+Brasenia_schreberi_NC_031343        AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTTA
+Nymphaea_ampla_KU189255             AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGCTCA
+Nymphaea_jamesoniana_NC_031826      AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nymphaea_alba_KU234277              AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nymphaea_alba_NC_006050             AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nymphaea_mexicana_NC_024542         AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Victoria_cruziana_KY001813          AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Euryale_ferox_KY392765              AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Barclaya_kunstleri_KY392762         AAATGAATATTTGTGAACAATGTGGATACTACTTGAAAATGAGTAGTTCA
+Barclaya_longifolia_KY284156        AAATGAATATTTGTGAACAATGTGGATACTACTTGAAAATGAGTAGTTCA
+Nuphar_advena_NC_008788             AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nuphar_longifolia_MH050795          AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nuphar_shimadae_MH050797            AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Nuphar_pumila_MH050796              AAATGAATATTTGTGAACAATGTGGATACCACTTGAAAATGAGTAGTTCA
+Trithuria_inconspicua_NC_02037      ACATGAGTATTTGTGAATATTGTGAATACCACTTGGCAATGAGTAGTTCA
+Trithuria_filamentosa_KF696682      ACATGAGTATTTGTGAATATTGTGAATACCACTTGGCAATGAGTAGTTCA
+                                    * **** ********** * **** **** *****  **** **** * *
+
+Cabomba_caroliniana_KT705317        GATAGAATTGCACTTTTGGTTGATCCAGACACTTGGGATCCTATGGATGA
+Brasenia_schreberi_NC_031343        GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGATCCTATGGATGA
+Nymphaea_ampla_KU189255             GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGCCCCTATGGATGA
+Nymphaea_jamesoniana_NC_031826      GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Nymphaea_alba_KU234277              GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Nymphaea_alba_NC_006050             GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Nymphaea_mexicana_NC_024542         GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGCCCCTATGGATGA
+Victoria_cruziana_KY001813          GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Euryale_ferox_KY392765              GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Barclaya_kunstleri_KY392762         GATAGAATCGAACTTTTGATTGATCCGGGCACTTGGGACCCTATGGATGA
+Barclaya_longifolia_KY284156        GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGACCCTATGGATGA
+Nuphar_advena_NC_008788             GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGATCCTATGGATGA
+Nuphar_longifolia_MH050795          GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGATCCTATGGATGA
+Nuphar_shimadae_MH050797            GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGATCCTATGGATGA
+Nuphar_pumila_MH050796              GATAGAATCGAACTTTTGATTGATCCAGGCACTTGGGATCCTATGGATGA
+Trithuria_inconspicua_NC_02037      GATAGAATAGACCTTTTGATTGATCCAGGAACTTTTCATCCTATGGATGA
+Trithuria_filamentosa_KF696682      GATAGAATAGACCTTTTGATTGATCCAGGAACTTTTCATCCTATGGATGA
+                                    ******** *  ****** ******* *  ****     ***********
+
+Cabomba_caroliniana_KT705317        AAACATGGTCT---------------------------------------
+Brasenia_schreberi_NC_031343        AAACATGGTCT---------------------------------------
+Nymphaea_ampla_KU189255             AAACATGGTCT---------------------------------------
+Nymphaea_jamesoniana_NC_031826      AAACATGGTCT---------------------------------------
+Nymphaea_alba_KU234277              AAACATGGTCT---------------------------------------
+Nymphaea_alba_NC_006050             AAACATGGTCT---------------------------------------
+Nymphaea_mexicana_NC_024542         AAACATGGTCT---------------------------------------
+Victoria_cruziana_KY001813          AAACATGATCT---------------------------------------
+Euryale_ferox_KY392765              AAACATGGTCT---------------------------------------
+Barclaya_kunstleri_KY392762         AAACATGGTCT---------------------------------------
+Barclaya_longifolia_KY284156        AAACATGGTCT---------------------------------------
+Nuphar_advena_NC_008788             AAACATGGTCT---------------------------------------
+Nuphar_longifolia_MH050795          AAACATGGTCT---------------------------------------
+Nuphar_shimadae_MH050797            AAACATGGTCT---------------------------------------
+Nuphar_pumila_MH050796              AAACATGGTCT---------------------------------------
+Trithuria_inconspicua_NC_02037      AAACATGATCTTGGACCCTCTTTTTTTTGATATGTTTGATTCGGAGGAGG
+Trithuria_filamentosa_KF696682      AAACATGATCTTGGACCCTCTTTTTTTTGATATGTTTGATTCGGAGGAGG
+                                    ******* ***                                       
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      AATCTGATAAGGTTGATTATGAAATGAAGACAGATTTGACTGAAGATGAA
+Trithuria_filamentosa_KF696682      AATCTGATAAGGTTGATTATGAAATGAAGACAGATTTGACTGAAGATGAA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      GACATCTTCCCAATGGAAGAACCTTCGGAGGAATCCGATAACGTTGATTA
+Trithuria_filamentosa_KF696682      GACATCTTCCCAATGGAAGAACCTTCGGAGGAATCCGATAACGTTGATTA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      TGAAATGGAAACATATTTTAATGAAGCTGACTACATGTTCCCTGAAGACA
+Trithuria_filamentosa_KF696682      TGAAATGGAAACATATTTTAATGAAGCTGACTACATGTTCCCTGAAGACA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      TCTTCCCAATGGAAGAACCCTCGGAGGAATCCAATGAGGTTGATTCTGAA
+Trithuria_filamentosa_KF696682      TCTTCCCAATGGAAGAACCCTCGGAGGAATCCAATGAGGTTGATTCTGAA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      ATGGGGACAGATTTGACTGAAGATGAAGACATCTTCCCAATGGAGGACCC
+Trithuria_filamentosa_KF696682      ATGGGGACAGATTTGACTGAAGATGAAGACATCTTCCCAATGGAGGACCC
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      TTGGGATGATTCCTCCGAGGAATTACTTGCTCGACGACAATGCGTGGCAA
+Trithuria_filamentosa_KF696682      TTGGGATGATTCCTCCGAGGAATTACTTGCTCGACGACAATGCGTGGCAA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        --------------------------------------------------
+Brasenia_schreberi_NC_031343        --------------------------------------------------
+Nymphaea_ampla_KU189255             --------------------------------------------------
+Nymphaea_jamesoniana_NC_031826      --------------------------------------------------
+Nymphaea_alba_KU234277              --------------------------------------------------
+Nymphaea_alba_NC_006050             --------------------------------------------------
+Nymphaea_mexicana_NC_024542         --------------------------------------------------
+Victoria_cruziana_KY001813          --------------------------------------------------
+Euryale_ferox_KY392765              --------------------------------------------------
+Barclaya_kunstleri_KY392762         --------------------------------------------------
+Barclaya_longifolia_KY284156        --------------------------------------------------
+Nuphar_advena_NC_008788             --------------------------------------------------
+Nuphar_longifolia_MH050795          --------------------------------------------------
+Nuphar_shimadae_MH050797            --------------------------------------------------
+Nuphar_pumila_MH050796              --------------------------------------------------
+Trithuria_inconspicua_NC_02037      TAGTTCGATACATCTTAGTGCATGAGAAAATTGTCTTAACCTGTCAGAAA
+Trithuria_filamentosa_KF696682      TAGTTCGATACATCTTAGTGCATGAGAAAATTGTCTTAACCTGTCAGAAA
+                                                                                      
+
+Cabomba_caroliniana_KT705317        ----------CTAT---------------------------------AGA
+Brasenia_schreberi_NC_031343        ----------CTAT---------------------------------AGA
+Nymphaea_ampla_KU189255             ----------CTAT---------------------------------GGA
+Nymphaea_jamesoniana_NC_031826      ----------CTAT---------------------------------GGA
+Nymphaea_alba_KU234277              ----------CTAT---------------------------------GGA
+Nymphaea_alba_NC_006050             ----------CTAT---------------------------------GGA
+Nymphaea_mexicana_NC_024542         ----------CTAT---------------------------------GGA
+Victoria_cruziana_KY001813          ----------CTAT---------------------------------GGA
+Euryale_ferox_KY392765              ----------CTAT---------------------------------GGA
+Barclaya_kunstleri_KY392762         ----------CTAT---------------------------------GGA
+Barclaya_longifolia_KY284156        ----------CTAT---------------------------------GGA
+Nuphar_advena_NC_008788             ----------CTAT---------------------------------AGA
+Nuphar_longifolia_MH050795          ----------CTAT---------------------------------AGA
+Nuphar_shimadae_MH050797            ----------CTAT---------------------------------AGA
+Nuphar_pumila_MH050796              ----------CTAT---------------------------------AGA
+Trithuria_inconspicua_NC_02037      CTGAATAAAGCTATAATTCAATTGCTTCAAAACGGGATTCCTCAAGAGGA
+Trithuria_filamentosa_KF696682      CTGAATAAAGCTATAATTCAATTGCTTCAAAACGGGATTCCTCAAGAGGA
+                                              ****                                  **
+
+Cabomba_caroliniana_KT705317        CCCTATTGAATTTCATTCTGAAGAAGAACCCTATAGGGATCGTATCTATT
+Brasenia_schreberi_NC_031343        CCCTATTGAATTTCATTCTGAGGAAGAACCTTATAGGGATCGTATCTATT
+Nymphaea_ampla_KU189255             CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Nymphaea_jamesoniana_NC_031826      CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Nymphaea_alba_KU234277              CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Nymphaea_alba_NC_006050             CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Nymphaea_mexicana_NC_024542         CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Victoria_cruziana_KY001813          CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Euryale_ferox_KY392765              CCCTATTGAATTTCATTCTGAGGAGGACCCTTATAGGGATCGTATCAATT
+Barclaya_kunstleri_KY392762         CCCTATTGAATTTCATTCTGAGGAGGAACCTTATGGGGATCGTATCAATT
+Barclaya_longifolia_KY284156        CCCTATTGAATTTAATTCTGAGGAGGAACCTTATAGGGATCGTATCAATT
+Nuphar_advena_NC_008788             CCCTATTGAATTTCATTCTGAGGAGGAACCTTATAGGGATCGTATCAATT
+Nuphar_longifolia_MH050795          CCCTATTGAATTTCATTCTGAGGAGGAACCTTATAGGGATCGTATCAATT
+Nuphar_shimadae_MH050797            CCCTATTGAATTTCATTCTGAGGAGGAACCTTATAGGGATCGTATCAATT
+Nuphar_pumila_MH050796              CCCTATTGAATTTCATTCTGAGGAGGAACCTTATAGGGATCGTATCAATT
+Trithuria_inconspicua_NC_02037      CCCCATTGAATTTGATTTTGAAGAAGAATCCTATGAAGATCGTATCCATT
+Trithuria_filamentosa_KF696682      CCCCATTGAATTTGATTTTGAAGAAGAATCCTATGAAGATCGTATCCATT
+                                    *** ********* *** *** ** **  * ***   ********* ***
+
+Cabomba_caroliniana_KT705317        CTTATCAAATAGAGACGGGTTTAGCCGAGGCTGTTCAAACAGGGACAGGC
+Brasenia_schreberi_NC_031343        CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nymphaea_ampla_KU189255             CTTATCAAATAGAGACGGGTTTGGCTGAGGCTGTTCAAACAGGCATAGGC
+Nymphaea_jamesoniana_NC_031826      CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nymphaea_alba_KU234277              CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nymphaea_alba_NC_006050             CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nymphaea_mexicana_NC_024542         CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Victoria_cruziana_KY001813          CTTATCAAATAGAGACGGGTTTATCTGAGGCTGTTCAAACAGGCATAGGC
+Euryale_ferox_KY392765              CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Barclaya_kunstleri_KY392762         CTTATCAAATGGAGACGGGTTTAGCCGAGGCTGTTCAAACAGGCATAGGC
+Barclaya_longifolia_KY284156        CTTATCAAATAGAGACGGGTTTAGCCGAGGCTGTTCAAACAGGCATAGGC
+Nuphar_advena_NC_008788             CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nuphar_longifolia_MH050795          CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nuphar_shimadae_MH050797            CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Nuphar_pumila_MH050796              CTTATCAAATAGAGACGGGTTTAGCTGAGGCTGTTCAAACAGGCATAGGC
+Trithuria_inconspicua_NC_02037      CTTATCAACTGGAGACAGGTTTAACTGAAGCTGTTCAAACGGGCATAGGT
+Trithuria_filamentosa_KF696682      CTTATCAACTGGAGACAGGTTTAACTGAAGCTGTTCAAACGGGCATAGGT
+                                    ******** * ***** *****  * ** *********** ** * *** 
+
+Cabomba_caroliniana_KT705317        AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Brasenia_schreberi_NC_031343        AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Nymphaea_ampla_KU189255             AAACTCAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Nymphaea_jamesoniana_NC_031826      AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Nymphaea_alba_KU234277              AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Nymphaea_alba_NC_006050             AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Nymphaea_mexicana_NC_024542         AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Victoria_cruziana_KY001813          AAATTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Euryale_ferox_KY392765              AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Barclaya_kunstleri_KY392762         AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTCAGTTTAT
+Barclaya_longifolia_KY284156        AAACTAAATGGTATTCCTATAGCAATTGGTGTTATGGATTTTAAGTTCAT
+Nuphar_advena_NC_008788             AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Nuphar_longifolia_MH050795          AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Nuphar_shimadae_MH050797            AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Nuphar_pumila_MH050796              AAACTAAATGGTATTCCCATAGCAATTGGGGTTATGGATTTTAAGTTCAT
+Trithuria_inconspicua_NC_02037      CAACTAAATGGTATTCGCACAGCCATCGGGGTTATGGATTTTGAGTTCAT
+Trithuria_filamentosa_KF696682      CAACTAAATGGTATTCGCACAGCCATCGGGGTTATGGATTTTGAGTTCAT
+                                     ** * **********  * *** ** ** ************ **** **
+
+Cabomba_caroliniana_KT705317        GGGGGGTAGTATGGGGTCCGTAGTAGGCGAGAAAATCACCCGTTTAATCG
+Brasenia_schreberi_NC_031343        GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATAACCCGTTTAATCG
+Nymphaea_ampla_KU189255             GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Nymphaea_jamesoniana_NC_031826      GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Nymphaea_alba_KU234277              GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Nymphaea_alba_NC_006050             GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Nymphaea_mexicana_NC_024542         GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Victoria_cruziana_KY001813          GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Euryale_ferox_KY392765              GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACACGTTTGATCG
+Barclaya_kunstleri_KY392762         GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Barclaya_longifolia_KY284156        GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Nuphar_advena_NC_008788             GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Nuphar_longifolia_MH050795          GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Nuphar_shimadae_MH050797            GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Nuphar_pumila_MH050796              GGGGGGTAGTATGGGATCCGTAGTAGGCGAGAAAATCACCCGTTTGATCG
+Trithuria_inconspicua_NC_02037      AGCGGGTAGTATGGGATCCGTAGTAGGAGAGAAAATCACCCGTTTAATCG
+Trithuria_filamentosa_KF696682      AGCGGGTAGTATGGGATCCGTAGTAGGAGAGAAAATCACCCGTTTAATCG
+                                     * ************ *********** ******** ** ***** ****
+
+Cabomba_caroliniana_KT705317        AGTATGCTACTGATAGATCTCTCCCTGTTATTATGGTGTGTGCTTCTGGA
+Brasenia_schreberi_NC_031343        AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nymphaea_ampla_KU189255             AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nymphaea_jamesoniana_NC_031826      AGTATGCTACTGATAGATCTCTCCCAATTATTATGGTGTGTGCTTCTGGA
+Nymphaea_alba_KU234277              AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nymphaea_alba_NC_006050             AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nymphaea_mexicana_NC_024542         AGTATGCTACTGATAGATCTCTCCCTGTTATTATGGTGTGTGCTTCTGGA
+Victoria_cruziana_KY001813          AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Euryale_ferox_KY392765              AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Barclaya_kunstleri_KY392762         AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCCGGA
+Barclaya_longifolia_KY284156        AATATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCCTCCGGA
+Nuphar_advena_NC_008788             AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nuphar_longifolia_MH050795          AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nuphar_shimadae_MH050797            AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Nuphar_pumila_MH050796              AGTATGCTACTGATAGATCTCTCCCAGTTATTATGGTGTGTGCTTCTGGA
+Trithuria_inconspicua_NC_02037      AGTATGCTACTAATGAATCTCTCCCTCTTATTATTGTATGTGCTTCTGGA
+Trithuria_filamentosa_KF696682      AGTATGCTACTAATGAATCTCTCCCTCTTATTATTGTATGTGCTTCTGGA
+                                    * ********* **  *********  ******* ** ***** ** ***
+
+Cabomba_caroliniana_KT705317        GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Brasenia_schreberi_NC_031343        GGAGCACGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nymphaea_ampla_KU189255             GGAGCACGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nymphaea_jamesoniana_NC_031826      GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nymphaea_alba_KU234277              GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nymphaea_alba_NC_006050             GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nymphaea_mexicana_NC_024542         GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Victoria_cruziana_KY001813          GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Euryale_ferox_KY392765              GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Barclaya_kunstleri_KY392762         GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Barclaya_longifolia_KY284156        GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nuphar_advena_NC_008788             GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nuphar_longifolia_MH050795          GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nuphar_shimadae_MH050797            GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Nuphar_pumila_MH050796              GGAGCGCGCATGCAAGAAGGAAGTTTGAGCTTGATGCAAATGGCTAAAAT
+Trithuria_inconspicua_NC_02037      GGAGCACGCATGCAAGAGGGAAGTTTGAGCTTGATGCAAATGGCGAAAAT
+Trithuria_filamentosa_KF696682      GGAGCACGCATGCAAGAGGGAAGTTTGAGCTTGATGCAAATGGCGAAAAT
+                                    ***** *********** ************************** *****
+
+Cabomba_caroliniana_KT705317        ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAATTATTCTATGTAT
+Brasenia_schreberi_NC_031343        ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nymphaea_ampla_KU189255             ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nymphaea_jamesoniana_NC_031826      ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nymphaea_alba_KU234277              ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nymphaea_alba_NC_006050             ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nymphaea_mexicana_NC_024542         ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Victoria_cruziana_KY001813          CTCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Euryale_ferox_KY392765              CTCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Barclaya_kunstleri_KY392762         ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATATAT
+Barclaya_longifolia_KY284156        ATCTTCCGCTTTATACAATTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nuphar_advena_NC_008788             ATCTTCTGCTTTATACAACTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nuphar_longifolia_MH050795          ATCTTCTGCTTTATACAACTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nuphar_shimadae_MH050797            ATCTTCTGCTTTATACAACTATCAATCAAATAAAAAGTTATTCTATGTAT
+Nuphar_pumila_MH050796              ATCTTCTGCTTTATACAACTATCAATCAAATAAAAAGTTATTCTATGTAT
+Trithuria_inconspicua_NC_02037      AGCCGCCGCTTTAAATGATTATCAATCAAAAAAAGAATCATTCTATGTAT
+Trithuria_filamentosa_KF696682      AGCCGCCGCTTTAAATGATTATCAATCAAAAAAAGAATCATTCTATGTAT
+                                      *  * ****** *  * *********** *** * * ******* ***
+
+Cabomba_caroliniana_KT705317        CAATCCTTACATCCCCTACTACTGGCGGAGTGACAGCCAGCTTTGGTATG
+Brasenia_schreberi_NC_031343        CAATCCTTACATCCCCTACTACTGGCGGAGTGACAGCCAGTTTTGGTATG
+Nymphaea_ampla_KU189255             CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nymphaea_jamesoniana_NC_031826      CAATCCTTACATCCCCTACAACTGGTGGGGTGACAGCCAGTTTTGGTATG
+Nymphaea_alba_KU234277              CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nymphaea_alba_NC_006050             CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nymphaea_mexicana_NC_024542         CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Victoria_cruziana_KY001813          CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Euryale_ferox_KY392765              CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Barclaya_kunstleri_KY392762         CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Barclaya_longifolia_KY284156        CAATCCTTACATCCCCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nuphar_advena_NC_008788             CAATCCTTACATCCCCCACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nuphar_longifolia_MH050795          CAATCCTTACATCCCCCACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nuphar_shimadae_MH050797            CAATCCTTACATCCCCCACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Nuphar_pumila_MH050796              CAATCCTTACATCCCCCACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Trithuria_inconspicua_NC_02037      CAATTCTTACATCACCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+Trithuria_filamentosa_KF696682      CAATTCTTACATCACCTACAACTGGTGGAGTGACAGCCAGTTTTGGTATG
+                                    **** ******** ** ** ***** ** *********** *********
+
+Cabomba_caroliniana_KT705317        TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Brasenia_schreberi_NC_031343        TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nymphaea_ampla_KU189255             TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nymphaea_jamesoniana_NC_031826      TTGGGAGATATCATTATTGCCGAACCCCATGCTTACATTGCATTCGCGGG
+Nymphaea_alba_KU234277              TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nymphaea_alba_NC_006050             TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nymphaea_mexicana_NC_024542         TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Victoria_cruziana_KY001813          TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Euryale_ferox_KY392765              TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Barclaya_kunstleri_KY392762         TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCGTTCGCGGG
+Barclaya_longifolia_KY284156        TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCGTTCGCGGG
+Nuphar_advena_NC_008788             TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nuphar_longifolia_MH050795          TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTCGCGGG
+Nuphar_shimadae_MH050797            TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTTGCGGG
+Nuphar_pumila_MH050796              TTGGGAGATATCATTATTGCCGAACCCAATGCTTACATTGCATTTGCGGG
+Trithuria_inconspicua_NC_02037      TTGGGGGATATCATTATTGCCGAGCCTGATGCAACTATTGCATTTGCGGG
+Trithuria_filamentosa_KF696682      TTGGGGGATATCATTATTGCCGAGCCTGATGCAACTATTGCATTTGCGGG
+                                    ***** ***************** **  ****    ***** ** *****
+
+Cabomba_caroliniana_KT705317        TAAAAGGGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Brasenia_schreberi_NC_031343        TAAAAGGGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nymphaea_ampla_KU189255             TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCAC
+Nymphaea_jamesoniana_NC_031826      TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nymphaea_alba_KU234277              TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nymphaea_alba_NC_006050             TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nymphaea_mexicana_NC_024542         TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Victoria_cruziana_KY001813          TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Euryale_ferox_KY392765              TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Barclaya_kunstleri_KY392762         TAAAAGAGTAATTGAACAAACATTGAAGAAGATAGTACCTGAGGGTTCGC
+Barclaya_longifolia_KY284156        TAAAAGAGTAATTGAACAAACATTGAAGAAGATAGTACCTGAGGGTTCGC
+Nuphar_advena_NC_008788             TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nuphar_longifolia_MH050795          TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nuphar_shimadae_MH050797            TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Nuphar_pumila_MH050796              TAAAAGAGTAATTGAACAAACATTGAAGAAGACAGTACCTGAGGGTTCGC
+Trithuria_inconspicua_NC_02037      TAAAAGAGTAATTGAAGACATATTGAAGACGCCAGTACCTGAGGATTCGC
+Trithuria_filamentosa_KF696682      TAAAAGAGTAATTGAAGACATATTGAAGACGCCAGTACCTGAGGATTCGC
+                                    ****** ********* * * ******** *  *********** *** *
+
+Cabomba_caroliniana_KT705317        AAGTAGCGGAGTATTTATTCCAAAAGGGTTTATTTGATCTAATGGTACCG
+Brasenia_schreberi_NC_031343        AAGTAGCGGAGTATTTATTCAATAAGGGTTTAGTTGATCTAATCGTACCG
+Nymphaea_ampla_KU189255             AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Nymphaea_jamesoniana_NC_031826      AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Nymphaea_alba_KU234277              AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Nymphaea_alba_NC_006050             AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Nymphaea_mexicana_NC_024542         AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Victoria_cruziana_KY001813          AAGTAGCAGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Euryale_ferox_KY392765              AAGTAGCGGAGTATTTATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Barclaya_kunstleri_KY392762         AAGTAGCGGAGTATTCATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Barclaya_longifolia_KY284156        AAGTAGCGGAGTATTCATTCAATAAGGGTTTATTTGATCCAATCGTACCG
+Nuphar_advena_NC_008788             AAGTAGCGGAGTATTCATTCCATAAGGGTTTATTTGATCCAATCGTACCG
+Nuphar_longifolia_MH050795          AAGTAGCGGAGTATTCATTCCATAAGGGTTTATTTGATCCAATCGTACCG
+Nuphar_shimadae_MH050797            AAGTAGCGGAGTATTCATTCCATAAGGGTTTATTTGATCCAATCGTACCG
+Nuphar_pumila_MH050796              AAGTAGCGGAGTATTCATTCCATAAGGGTTTATTTGATCCAATCGTACCG
+Trithuria_inconspicua_NC_02037      AAGTAGCGGAGTATTTATTCCCTATGGGTTTATTTGATACAATGGTACCA
+Trithuria_filamentosa_KF696682      AAGTAGCGGAGTATTTATTCCCTATGGGTTTATTTGATACAATGGTACCA
+                                    ******* ******* ****   * ******* *****  *** ***** 
+
+Cabomba_caroliniana_KT705317        CGTAATCTTTTAAAAGGCGTTCTGAGTGAGTTATTTCAGTTACATGGTTT
+Brasenia_schreberi_NC_031343        CGTAATCTTTTAAAAGGCGTTCCGAGTGAGTTATTTCAGTTACATGGTTT
+Nymphaea_ampla_KU189255             CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGGTT
+Nymphaea_jamesoniana_NC_031826      CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGGTT
+Nymphaea_alba_KU234277              CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Nymphaea_alba_NC_006050             CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Nymphaea_mexicana_NC_024542         CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Victoria_cruziana_KY001813          CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGGTT
+Euryale_ferox_KY392765              CGTAATCTTTTAAAAGGTGTTCCGGGTGAGTTATTTCAGTTCCATGGGTT
+Barclaya_kunstleri_KY392762         CGTAATCTTTTAAAAGGTGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Barclaya_longifolia_KY284156        CGTAATCTTTTAAAAGGTGTTCCGAATGAGTTATTTCAGTTCCATGGTTT
+Nuphar_advena_NC_008788             CGTAATCTTTTAAAAGGCGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Nuphar_longifolia_MH050795          CGTAATCTTTTAAAAGGCGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Nuphar_shimadae_MH050797            CGTAATCTTTTAAAAGGCGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Nuphar_pumila_MH050796              CGTAATCTTTTAAAAGGCGTTCCGAGTGAGTTATTTCAGTTCCATGGTTT
+Trithuria_inconspicua_NC_02037      CGTAATCTTTTAAAAGGTGTTCTGACTGAGTTATTTCAGTTCCATGGGTT
+Trithuria_filamentosa_KF696682      CGTAATCTTTTAAAAGGTGTTCTGACTGAGTTATTTCAGTTCCATGGGTT
+                                    ***************** **** *  *************** ***** **
+
+Cabomba_caroliniana_KT705317        CCTTCCCCCTCCTTCAATT
+Brasenia_schreberi_NC_031343        CCTTCCCGCTCCTTCAACT
+Nymphaea_ampla_KU189255             CTTTCCCCGCCCT------
+Nymphaea_jamesoniana_NC_031826      CTTTCCCCGCCCT------
+Nymphaea_alba_KU234277              CTTTCCCCGCCCT------
+Nymphaea_alba_NC_006050             CTTTCCCCGCCCT------
+Nymphaea_mexicana_NC_024542         CTTTCCCCGCCCT------
+Victoria_cruziana_KY001813          CTTTCCCCGCCCT------
+Euryale_ferox_KY392765              CTTTCCCCGCCCT------
+Barclaya_kunstleri_KY392762         CTTTCCCCGCCCT------
+Barclaya_longifolia_KY284156        CTTTCCCCGCCCT------
+Nuphar_advena_NC_008788             CTTTCCCCGCCCT------
+Nuphar_longifolia_MH050795          CTTTCCCCGCCCT------
+Nuphar_shimadae_MH050797            CTTTCCCCGCCCT------
+Nuphar_pumila_MH050796              CTTTCCCCGCCCT------
+Trithuria_inconspicua_NC_02037      CTTTCCC------------
+Trithuria_filamentosa_KF696682      CTTTCCC------------
+                                    * *****            
